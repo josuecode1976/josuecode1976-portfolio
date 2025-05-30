@@ -11,9 +11,9 @@
 
 <hr>
 
-<strong>Link do projeto 1 curso:</strong> <a href="https://github.com/josuecode1976/josuecode1976-portfolio.git">https://edijunior88-origamid-portfolio.netlify.app/</a>
+<strong>Link do projeto 1 curso:</strong> <a href="https://github.com/josuecode1976/josuecode1976-portfolio.git">https://github.com/josuecode1976/josuecode1976-portfolio.git/</a>
 
-<strong>Link do projeto 2 curso:</strong> <a href="https://github.com/josuecode1976/bikcraft.git">https://origamid-html-e-css-para-iniciantes.onrender.com/</a>
+<strong>Link do projeto 2 curso:</strong> <a href="https://github.com/josuecode1976/bikcraft.git">https://github.com/josuecode1976/bikcraft.git</a>
 
 <hr>
 
