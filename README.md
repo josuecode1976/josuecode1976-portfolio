@@ -1,4 +1,4 @@
-<img src="Exercicios/img/origamid-logo.png" width="50%">
+<img src="portifolio/imagens/origamid-logo.png" width="50%">
 <h2>HTML e CSS para Iniciantes</h2>
 
 <p>Front End, HTML, Tags, Acessibilidade, CSS, Grid Layout, Flexbox, Media Queries, Responsivo, VS Code e mais.</p>
