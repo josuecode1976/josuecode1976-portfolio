@@ -1,5 +1,5 @@
 
-HTML e CSS para Iniciantes
+HTML e CSS para Iniciantes <br>
 Front End, HTML, Tags, Acessibilidade, CSS, Grid Layout, Flexbox, Media Queries, Responsivo, VS Code e mais.
 
 O objeto do curso não é direto ao ponto, e sim fazer você entender o ponto. Eu rodo o ponto, volto no ponto e demonstro o ponto. Esse curso é focado na parte do Código Front End (HTML e CSS).
