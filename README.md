@@ -21,6 +21,7 @@
 
 HTML CSS
 
+<hr>
 
 <h3>HTML e CSS para Iniciantes</h3>
 <ul>
@@ -113,11 +114,6 @@ HTML CSS
 <h3>Status dos Deploys</h3>
 
 
-<p>
-  <a href="https://wakatime.com/badge/github/EdiJunior88/Origamid_HTML_e_CSS_para_Iniciantes">
-    <img src="https://wakatime.com/badge/github/EdiJunior88/Origamid_HTML_e_CSS_para_Iniciantes.svg" alt="wakatime">
-  </a>
-</p>
 
 <hr>
 
