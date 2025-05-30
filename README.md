@@ -11,21 +11,16 @@
 
 <hr>
 
-<strong>Link do projeto 1 curso:</strong> <a href="https://edijunior88-origamid-portfolio.netlify.app/">https://edijunior88-origamid-portfolio.netlify.app/</a>
+<strong>Link do projeto 1 curso:</strong> <a href="https://github.com/josuecode1976/josuecode1976-portfolio.git">https://edijunior88-origamid-portfolio.netlify.app/</a>
 
-<strong>Link do projeto 2 curso:</strong> <a href="https://origamid-html-e-css-para-iniciantes.onrender.com/">https://origamid-html-e-css-para-iniciantes.onrender.com/</a>
+<strong>Link do projeto 2 curso:</strong> <a href="https://github.com/josuecode1976/bikcraft.git">https://origamid-html-e-css-para-iniciantes.onrender.com/</a>
 
 <hr>
 
 <h3>Tecnologias Utilizadas</h3>
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/21547/default_1aeac791cde11ff66cc0b20dcc6144eeb185c905.png' alt='Vite'/> [Vite](https://vitejs.dev/) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/2748/default_5dfbb146cf22182bca88c7d07f2515a5888fc12a.jpg' alt='Netlify'/> [Netlify](https://www.netlify.com/) – Static Web Hosting
+HTML CSS
 
-Para ver todas as tecnologias [clique aqui](/techstack.md)
-
-<hr>
 
 <h3>HTML e CSS para Iniciantes</h3>
 <ul>
@@ -116,18 +111,7 @@ Para ver todas as tecnologias [clique aqui](/techstack.md)
 <hr>
 
 <h3>Status dos Deploys</h3>
-<p>Portfólio</p>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f8cd3c60-3428-49f2-ac26-8be687175698/deploy-status)](https://app.netlify.com/sites/origamid-html-css-portfolio/deploys)
-
-<p>Bikcraft</p>
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b5e61e72-b992-44b1-8bd1-d17efd827556/deploy-status)](https://app.netlify.com/sites/bikcraft-edijunior88/deploys)
-
-
-<hr>
-
-<h3>Tempo Estudando o curso</h3>
 
 <p>
   <a href="https://wakatime.com/badge/github/EdiJunior88/Origamid_HTML_e_CSS_para_Iniciantes">
