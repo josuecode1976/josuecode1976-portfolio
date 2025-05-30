@@ -11,9 +11,9 @@
 
 <hr>
 
-<strong>Link do projeto 1 curso:</strong> <a href="https://github.com/josuecode1976/josuecode1976-portfolio.git">https://github.com/josuecode1976/josuecode1976-portfolio.git/</a>
+<strong>Link do projeto 1 curso:</strong> <a href="https://github.com/josuecode1976/josuecode1976-portfolio.git">https://josuecode1976.github.io/josuecode1976-portfolio/</a>
 
-<strong>Link do projeto 2 curso:</strong> <a href="https://github.com/josuecode1976/bikcraft.git">https://github.com/josuecode1976/bikcraft.git</a>
+<strong>Link do projeto 2 curso:</strong> <a href="https://github.com/josuecode1976/bikcraft.git">https://josuecode1976.github.io/bikcraft</a>
 
 <hr>
 
